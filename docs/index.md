@@ -63,9 +63,11 @@ Languages:
 
 ## Previous Work Experience
 
-Biolife Plasma Services
+<!-- If possilbe add at least one personal project you or task you worked on as experience so it can be a
+Biolife Plasma Servicess relevant as possilbe. -->
 + Plasma Center Technician, as a California Certified Phlebotomy - 2022-2023 (10 Months)
 
+<!-- Hobbies aren't bad to put in but I'd suggest limiting them to just one or two. If in any way you can connect them to your work the better!
 ## Hobbies
 Musician
 + Piano, Guitar
